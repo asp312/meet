@@ -1,7 +1,7 @@
 <template>
   <div class="main-wrapper mb-6">
     <section>
-      <img src="~assets/img/banner.png" alt="baner" width="100%"/>
+      <img src="~assets/img/banner.png" alt="baner" width="100%" height="300px"/>
     </section>
     <dnav class="mt-4 mb-4"></dnav>
     <h1>Кроссовки: новинки</h1>
