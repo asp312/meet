@@ -222,6 +222,7 @@ export default {
 .checkbox-wrapper{
     height: 300px;
     overflow: scroll;
+    &::-webkit-scrollbar { width: 0; }
 }
 .acceptBtn{
     width: 280px;

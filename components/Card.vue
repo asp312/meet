@@ -56,7 +56,7 @@ export default {
     height: 50px;
 }
 .heart-pic{
-    position: absolute;
+    position: absolute !important;
     top: 28px;
     right: 26px;
     transition: $transTime;
